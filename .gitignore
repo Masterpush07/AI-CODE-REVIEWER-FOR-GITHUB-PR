@@ -1,0 +1,20 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Security (CRITICAL)
+backend/.env
+.env
+
+# Supabase Local
+supabase/.temp/
+
+# OS Files
+.DS_Store
+Thumbs.db

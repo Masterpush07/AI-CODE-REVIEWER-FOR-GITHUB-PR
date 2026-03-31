@@ -166,7 +166,7 @@ RAG (Retrieval-Augmented Generation) is the core differentiator of this system.
 ### Backend (AI & Webhooks)
 * **Framework:** FastAPI (Python)
 * **AI Orchestration:** LangGraph, LangChain
-* **LLM Providers:** Cerebras API, Google Gemini
+* **LLM Providers:**  Anthropic Claude (3.5 Sonnet / 4.6 Opus) , Cerebras API, Google Gemini
 * **Embeddings Model:** HuggingFace `SentenceTransformers` (`all-MiniLM-L6-v2`)
 
 ### Database & Storage
